@@ -1,12 +1,13 @@
-#a=10
-#print(a,'1')
-#def ex():
-#    a=10
-#    a+=1
- #   print(a,'2')
-#ex()
-#print(a,'3')
-
+        code 1
+a=10
+print(a,'1')
+def ex():
+    a=10   
+    a+=1
+    print(a,'2')
+ex()
+print(a,'3')
+      code 2
 a=10
 print(a,'1')
 def ex():
